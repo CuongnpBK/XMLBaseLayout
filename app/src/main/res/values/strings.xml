@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">XMLBaseLayout</string>
+    <string name="window_text">
+        Press the button below to receive a friendy greeting from Android.
+    </string>
+    <string name="button_label">Show greeting</string>
+    <string name="greeting_text">hello from Android!</string>
+</resources>
